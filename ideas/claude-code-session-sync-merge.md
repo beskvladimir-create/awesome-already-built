@@ -33,3 +33,18 @@
 ---
 
 Proposed 2026-11-08 to the authors listed above, one issue each, from the whoelse author. Replies: "in" on the issue in your repository. Cluster page: [claude-code-session-sync.md](claude-code-session-sync.md).
+
+## Round 1, 2026-11-08
+
+Asked (10 of 15; the other 5 follow tomorrow):
+
+- [tawanorg/claude-sync](https://github.com/tawanorg/claude-sync/issues/102)
+- [perfectra1n/claude-code-sync](https://github.com/perfectra1n/claude-code-sync/issues/116)
+- [ahmojo/codex-claude-transfer](https://github.com/ahmojo/codex-claude-transfer/issues/42)
+- [Edenzzzz/claude-history-sync](https://github.com/Edenzzzz/claude-history-sync/issues/1)
+- [Shaf2665/mem-mastero](https://github.com/Shaf2665/mem-mastero/issues/3)
+- [Cha1000000/claude-code-sync](https://github.com/Cha1000000/claude-code-sync/issues/1)
+- [lidongpeng36/agent-sync](https://github.com/lidongpeng36/agent-sync/issues/1)
+- [sergeiwallace/ai-cli-utils](https://github.com/sergeiwallace/ai-cli-utils/issues/482)
+- [Cnyn0403/claude-discord-sync](https://github.com/Cnyn0403/claude-discord-sync/issues/7)
+- [SebastiaWeb/cortex-cli](https://github.com/SebastiaWeb/cortex-cli/issues/1)
