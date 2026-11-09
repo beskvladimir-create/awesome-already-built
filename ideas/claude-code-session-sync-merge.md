@@ -34,9 +34,9 @@
 
 Proposed 2026-11-08 to the authors listed above, one issue each, from the whoelse author. Replies: "in" on the issue in your repository. Cluster page: [claude-code-session-sync.md](claude-code-session-sync.md).
 
-## Round 1, 2026-11-08
+## Round 1
 
-Asked (10 of 15; the other 5 follow tomorrow):
+Asked, 2026-11-08 and 2026-11-09 (15 of 24; the other 9 follow in a later round):
 
 - [tawanorg/claude-sync](https://github.com/tawanorg/claude-sync/issues/102)
 - [perfectra1n/claude-code-sync](https://github.com/perfectra1n/claude-code-sync/issues/116)
@@ -48,3 +48,8 @@ Asked (10 of 15; the other 5 follow tomorrow):
 - [sergeiwallace/ai-cli-utils](https://github.com/sergeiwallace/ai-cli-utils/issues/482)
 - [Cnyn0403/claude-discord-sync](https://github.com/Cnyn0403/claude-discord-sync/issues/7)
 - [SebastiaWeb/cortex-cli](https://github.com/SebastiaWeb/cortex-cli/issues/1)
+- [shanewas/engram](https://github.com/shanewas/engram/issues/9)
+- [Dpetg/claude-session-share](https://github.com/Dpetg/claude-session-share/issues/1)
+- [vncp/rematch](https://github.com/vncp/rematch/issues/11)
+- [Shayneg-eng/Clocator](https://github.com/Shayneg-eng/Clocator/issues/1)
+- [MajdKZ1/CrossAgent](https://github.com/MajdKZ1/CrossAgent/issues/1)
